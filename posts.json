@@ -4,21 +4,43 @@
 	"writerId": 1,
     "writerName": "bnis",
 	"writerProfile": "https://randomuser.me/api/portraits/men/27.jpg",
-    "text": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-	"image": "",
+	"text": "Text with Image",
+	"image": "https://cdn.vox-cdn.com/thumbor/nqsIYlKdMKC9svDx6Q1bSOktrSc=/0x40:2048x1112/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22838328/51439937017_28a550e739_k.jpg",
 	"likeCount": 3,
 	"commentCount": 4,
 	"regTime": "2020-10-10T14:58:04+09:00"
   },
   {
 	"postId": 2,
-	"writerId": 1,
-    "writerName": "bnis",
-	"writerProfile": "https://randomuser.me/api/portraits/men/27.jpg",
-    "text": "Test text 123",
+	"writerId": 2,
+    "writerName": "Mike",
+	"writerProfile": "https://randomuser.me/api/portraits/men/26.jpg",
+	"text": "nquia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
 	"image": "",
 	"likeCount": 0,
 	"commentCount": 0,
+	"regTime": "2020-10-10T14:58:04+09:00"
+  },
+  {
+	"postId": 3,
+	"writerId": 3,
+    "writerName": "Vampire Hunter",
+	"writerProfile": "https://randomuser.me/api/portraits/men/25.jpg",
+    "text": "한글 테스트\n2\n3\n4\n5",
+	"image": "https://i.pcmag.com/imagery/reviews/0438DLAsy02ix8HC36pIOrK-6.fit_scale.size_760x427.v1641826531.jpg",
+	"likeCount": 0,
+	"commentCount": 0,
+	"regTime": "2020-10-10T14:58:04+09:00"
+  },
+  {
+	"postId": 4,
+	"writerId": 3,
+    "writerName": "Vampire Hunter",
+	"writerProfile": "https://randomuser.me/api/portraits/men/25.jpg",
+    "text": "Test text 123",
+	"image": "",
+	"likeCount": 1,
+	"commentCount":10,
 	"regTime": "2020-10-10T14:58:04+09:00"
   }
  ]
