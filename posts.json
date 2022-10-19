@@ -58,6 +58,21 @@
 	"like_cnt": 1,
 	"comment_cnt":10,
 	"reg_date": "2020-10-10T14:58:04+09:00"
+  },
+  {
+	"id": 4,
+	"writer": {
+		"id": 3,
+		"username": "Vampire Hunter",
+		"level": 21,
+		"profile_img": "https://randomuser.me/api/portraits/men/25.jpg",
+		"library_cnt": 9
+	},
+    "text": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et",
+	"image": "",
+	"like_cnt": 1,
+	"comment_cnt":10,
+	"reg_date": "2020-10-10T14:58:04+09:00"
   }
  ]
  
