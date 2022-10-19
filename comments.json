@@ -15,7 +15,7 @@
 	"reg_date": "2020-10-10T14:58:04+09:00"
   },
   {
-	"commentId": 2,
+	"id": 2,
 	"writer": {
 		"id": 2,
 		"username": "Justin",
@@ -30,7 +30,7 @@
 	"reg_date": "2020-10-10T14:58:04+09:00"
   },
   {
-    "commentId": 3,
+    "id": 3,
 	"writer": {
 		"id": 5,
 		"username": "Dave",
@@ -45,7 +45,7 @@
 	"reg_date": "2020-10-10T14:58:04+09:00"
   },
   {
-    "commentId": 3,
+    "id": 3,
 	"writer": {
 		"id": 5,
 		"username": "Dave",
@@ -60,7 +60,7 @@
 	"reg_date": "2020-10-10T14:58:04+09:00"
   },
   {
-    "commentId": 4,
+    "id": 4,
 	"writer": {
 		"id": 6,
 		"username": "huyi",
