@@ -1,4 +1,19 @@
 {
-	"id": 99,
-	"result": 1
+	"result": 99,
+	"comment_cnt": 5,
+	"created_comments": {
+		"id": 1,
+		"writer": {
+			"id": 1,
+			"username": "bnis",
+			"level": 12,
+			"profile_img": "https://randomuser.me/api/portraits/men/27.jpg",
+			"library_cnt": 253
+		},
+		"text": "Text with Image",
+		"image": "https://cdn.vox-cdn.com/thumbor/nqsIYlKdMKC9svDx6Q1bSOktrSc=/0x40:2048x1112/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22838328/51439937017_28a550e739_k.jpg",
+		"like_cnt": 3,
+		"comment_cnt": 4,
+		"reg_date": "2020-10-10T14:58:04+09:00"
+	}
 }
