@@ -1,7 +1,7 @@
 {
-	"result": 99,
+	"result": 1,
 	"created_post": {
-		"id": 1,
+		"id": 99,
 		"writer": {
 			"id": 1,
 			"username": "bnis",
@@ -9,9 +9,9 @@
 			"profile_img": "https://randomuser.me/api/portraits/men/27.jpg",
 			"library_cnt": 253
 		},
-		"game_tag": "Zelda_BOTW_Switch",
-		"text": "Text with Image",
-		"image": "https://cdn.vox-cdn.com/thumbor/nqsIYlKdMKC9svDx6Q1bSOktrSc=/0x40:2048x1112/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22838328/51439937017_28a550e739_k.jpg",
+		"game_tag": "Mario_NDS",
+		"text": "Mario - New post",
+		"image": "https://ktvz.b-cdn.net/2022/10/hypatia-h_afdf45c6d70c677d48d188196df16956-h_553c4d8a78511b4c06a56973debfb1a5-300-1440x810.jpg",
 		"like_cnt": 3,
 		"comment_cnt": 4,
 		"reg_date": "2020-10-10T14:58:04+09:00"
