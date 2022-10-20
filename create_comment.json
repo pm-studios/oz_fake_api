@@ -1,6 +1,5 @@
 {
-	"result": 99,
-	"comment_cnt": 5,
+	"result": 1,
 	"created_comments": {
 		"id": 1,
 		"writer": {
