@@ -1,18 +1,15 @@
 {
-	"result": 1,
-	"created_comment": {
+	"id": 1,
+	"writer": {
 		"id": 1,
-		"writer": {
-			"id": 1,
-			"username": "bnis",
-			"level": 12,
-			"profile_img": "https://randomuser.me/api/portraits/men/27.jpg",
-			"library_cnt": 253
-		},
-		"text": "Mario - New Comment",
-		"image": "https://media.tenor.com/zOoVaNGp6IsAAAAd/mario-game.gif",
-		"like_cnt": 3,
-		"comment_cnt": 4,
-		"reg_date": "2020-10-10T14:58:04+09:00"
-	}
+		"username": "bnis",
+		"level": 12,
+		"avatar_img_url": "https://randomuser.me/api/portraits/men/27.jpg",
+		"library_cnt": 253
+	},
+	"text": "Mario - New Comment",
+	"image": "https://media.tenor.com/zOoVaNGp6IsAAAAd/mario-game.gif",
+	"like_cnt": 3,
+	"comment_cnt": 4,
+	"reg_date": "2020-10-10T14:58:04+09:00"
 }

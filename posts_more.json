@@ -5,7 +5,7 @@
 		"id": 1,
 		"username": "bnis",
 		"level": 12,
-		"profile_img": "https://randomuser.me/api/portraits/men/17.jpg",
+		"avatar_img_url": "https://randomuser.me/api/portraits/men/17.jpg",
 		"library_cnt": 253
 	},
 	"text": "Text with Image",
@@ -20,7 +20,7 @@
 		"id": 2,
 		"username": "Mike",
 		"level": 5,
-		"profile_img": "https://randomuser.me/api/portraits/men/16.jpg",
+		"avatar_img_url": "https://randomuser.me/api/portraits/men/16.jpg",
 		"library_cnt": 54
 	},
 	"text": "Did You Know About This Amazing Water Effect In The Legend Of Zelda: Breath Of The Wild?",
@@ -35,7 +35,7 @@
 		"id": 3,
 		"username": "Vampire Hunter",
 		"level": 21,
-		"profile_img": "https://randomuser.me/api/portraits/men/15.jpg",
+		"avatar_img_url": "https://randomuser.me/api/portraits/men/15.jpg",
 		"library_cnt": 9
 	},
 	"game_tag": "GodOfWar_PS4",
@@ -51,7 +51,7 @@
 		"id": 3,
 		"username": "Vampire Hunter",
 		"level": 21,
-		"profile_img": "https://randomuser.me/api/portraits/men/25.jpg",
+		"avatar_img_url": "https://randomuser.me/api/portraits/men/25.jpg",
 		"library_cnt": 9
 	},
 	"game_tag": "GodOfWar_PS4",

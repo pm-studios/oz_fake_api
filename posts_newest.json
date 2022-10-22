@@ -5,7 +5,7 @@
 		"id": 1,
 		"username": "bnis",
 		"level": 12,
-		"profile_img": "https://randomuser.me/api/portraits/men/27.jpg",
+		"avatar_img_url": "https://randomuser.me/api/portraits/men/27.jpg",
 		"library_cnt": 253
 	},
 	"game_tag": "GodOfWar_PS4",
@@ -21,7 +21,7 @@
 		"id": 2,
 		"username": "Mike",
 		"level": 5,
-		"profile_img": "https://randomuser.me/api/portraits/men/26.jpg",
+		"avatar_img_url": "https://randomuser.me/api/portraits/men/26.jpg",
 		"library_cnt": 54
 	},
 	"game_tag": "GodOfWar_PS4",

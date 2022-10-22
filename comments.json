@@ -5,7 +5,7 @@
 		"id": 1,
 		"username": "bnis",
 		"level": 12,
-		"profile_img": "https://randomuser.me/api/portraits/men/8.jpg",
+		"avatar_img_url": "https://randomuser.me/api/portraits/men/8.jpg",
 		"library_cnt": 253
 	},
 	"text": "Then you look at the rain in GTA or Cyberpunk 2077. Sometimes it feels AAA is just rushing and getting ahead of itself.",
@@ -20,7 +20,7 @@
 		"id": 2,
 		"username": "Justin",
 		"level": 4,
-		"profile_img": "https://randomuser.me/api/portraits/men/2.jpg",
+		"avatar_img_url": "https://randomuser.me/api/portraits/men/2.jpg",
 		"library_cnt": 23
 	},
 	"text": "Breath of the Wild is my favorite open world game because of little details like this. But as a Zelda game it is a bit lacking. The best part of a Zelda game for me are the dungeons and you don't really have those here. The Devine Beasts are fun but way too short and the same is true for the shrines. But imagine what they can do with BotW 2 now that they have the first game as a baseline and can fully concentrate on the level design!",
@@ -35,7 +35,7 @@
 		"id": 5,
 		"username": "Dave",
 		"level": 4,
-		"profile_img": "https://randomuser.me/api/portraits/men/12.jpg",
+		"avatar_img_url": "https://randomuser.me/api/portraits/men/12.jpg",
 		"library_cnt": 23
 	},
 	"text": "Yes, I was already aware of this detail, because you posted almost the exact same article over four years ago: https://www.nintendolife.com/news/2017/04/realistic_puddles_are_reason_243_that_zelda_breath_of_the_wild_is_awesome",
@@ -50,7 +50,7 @@
 		"id": 5,
 		"username": "Dave",
 		"level": 4,
-		"profile_img": "https://randomuser.me/api/portraits/men/12.jpg",
+		"avatar_img_url": "https://randomuser.me/api/portraits/men/12.jpg",
 		"library_cnt": 23
 	},
 	"text": "Is it safe to say that this is one of, if not the best game engines ever made? It's just little insane details like this that make me appreciate the game more and more. It also makes me super excited for the sequel, to see how they expand on the already insane physics.",
@@ -65,7 +65,7 @@
 		"id": 6,
 		"username": "huyi",
 		"level": 4,
-		"profile_img": "https://randomuser.me/api/portraits/men/12.jpg",
+		"avatar_img_url": "https://randomuser.me/api/portraits/men/12.jpg",
 		"library_cnt": 23
 	},
 	"text": "@Dave so true, this game is still crap anyways 😂😂😂🥱🥱",
