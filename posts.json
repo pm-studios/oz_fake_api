@@ -1,6 +1,6 @@
 [
   {
-	"id": 1,
+	"id": 136,
 	"writer": {
 		"id": 1,
 		"username": "bnis",
@@ -16,7 +16,7 @@
 	"reg_date": "2020-10-10T14:58:04+09:00"
   },
   {
-	"id": 2,
+	"id": 180,
 	"writer": {
 		"id": 2,
 		"username": "Mike",
@@ -32,7 +32,7 @@
 	"reg_date": "2020-10-10T14:58:04+09:00"
   },
   {
-	"id": 3,
+	"id": 181,
 	"writer": {
 		"id": 3,
 		"username": "Vampire Hunter",
@@ -48,7 +48,7 @@
 	"reg_date": "2020-10-10T14:58:04+09:00"
   },
   {
-	"id": 4,
+	"id": 182,
 	"writer": {
 		"id": 3,
 		"username": "Vampire Hunter",
@@ -57,22 +57,6 @@
 		"library_cnt": 9
 	},
 	"game_tag": "GodOfWar_PS4",
-    "text": "Test text 123",
-	"image": "",
-	"like_cnt": 1,
-	"comment_cnt":10,
-	"reg_date": "2020-10-10T14:58:04+09:00"
-  },
-  {
-	"id": 4,
-	"writer": {
-		"id": 3,
-		"username": "Vampire Hunter",
-		"level": 21,
-		"avatar_img_url": "https://randomuser.me/api/portraits/men/25.jpg",
-		"library_cnt": 9
-	},
-	"game_tag": "Zelda_BOTW_Switch",
     "text": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et",
 	"image": "",
 	"like_cnt": 1,
