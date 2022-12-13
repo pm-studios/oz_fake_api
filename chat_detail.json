@@ -1,0 +1,15 @@
+{
+	"data": [
+        {
+			"id": 1
+			"message": "메시지",
+			"date_added": "2020-10-10T14:58:04+09:00",
+			"me": 1,
+			"was_read": 1,
+			"message_type": 1,
+			"room_name": "채팅방 이름"
+		}
+      ],
+      "msg": "success",
+      "status_code": 200
+  }
