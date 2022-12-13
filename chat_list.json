@@ -1,0 +1,23 @@
+  {
+      "data": [
+          {
+              "room_name": "1",
+              "latest_text": "마지막 메시지",
+              "unread_count": "3",
+              "user": {
+				"id": 28,
+				"reg_type": 0,
+				"birthday": "2022-10-11T08:06:06.343405Z",
+				"nickname": "Aceves",
+				"level": 1,
+				"experience": 0,
+				"avatar_img_url": "",
+				"avatar_json": {
+				}
+				"user": 0,
+			}
+          }
+      ],
+      "msg": "success",
+      "status_code": 200
+  }
