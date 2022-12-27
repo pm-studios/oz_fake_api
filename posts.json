@@ -8,12 +8,11 @@
 		"avatar_img_url": "https://randomuser.me/api/portraits/men/27.jpg",
 		"library_cnt": 253
 	},
+	"game_id": 1242,
 	"game_tag": "GodOfWar_PS4",
-	"text": "Text with Image",
-	"image": "https://cdn.vox-cdn.com/thumbor/nqsIYlKdMKC9svDx6Q1bSOktrSc=/0x40:2048x1112/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22838328/51439937017_28a550e739_k.jpg",
-	"like_cnt": 3,
-	"comment_cnt": 4,
-	"reg_date": "2020-10-10T14:58:04+09:00"
+	"title": "",
+	"content": "Text with Image",
+	"created_at": "2020-10-10T14:58:04+09:00"
   },
   {
 	"id": 180,
@@ -24,12 +23,11 @@
 		"avatar_img_url": "https://randomuser.me/api/portraits/men/26.jpg",
 		"library_cnt": 54
 	},
-	"game_tag": "Zelda_BOTW_Switch",
-	"text": "nquia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-	"image": "",
-	"like_cnt": 0,
-	"comment_cnt": 0,
-	"reg_date": "2020-10-10T14:58:04+09:00"
+	"game_id": 1242,
+	"game_tag": "GodOfWar_PS4",
+	"title": "",
+	"content": "nquia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+	"created_at": "2020-10-10T14:58:04+09:00"
   },
   {
 	"id": 181,
@@ -40,12 +38,11 @@
 		"avatar_img_url": "https://randomuser.me/api/portraits/men/25.jpg",
 		"library_cnt": 9
 	},
-	"game_tag": "GodOfWar_PS5",
-    "text": "한글 테스트\n2\n3\n4\n5",
-	"image": "https://i.pcmag.com/imagery/reviews/0438DLAsy02ix8HC36pIOrK-6.fit_scale.size_760x427.v1641826531.jpg",
-	"like_cnt": 0,
-	"comment_cnt": 0,
-	"reg_date": "2020-10-10T14:58:04+09:00"
+	"game_id": 1242,
+	"game_tag": "GodOfWar_PS4",
+	"title": "",
+    "content": "한글 테스트\n2\n3\n4\n5",
+	"created_at": "2020-10-10T14:58:04+09:00"
   },
   {
 	"id": 182,
@@ -56,12 +53,11 @@
 		"avatar_img_url": "https://randomuser.me/api/portraits/men/25.jpg",
 		"library_cnt": 9
 	},
+	"game_id": 1242,
 	"game_tag": "GodOfWar_PS4",
-    "text": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et",
-	"image": "",
-	"like_cnt": 1,
-	"comment_cnt":10,
-	"reg_date": "2020-10-10T14:58:04+09:00"
+	"title": "",
+    "content": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et",
+	"created_at": "2020-10-10T14:58:04+09:00"
   }
  ]
  
